@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Shivam Rai</h1>
+<h1 align="center">Hi 👋, I'm Shivam Rai tie bnna aata hai humko</h1>
 <h3 align="center">AI/ML Developer | Data Science | Full Stack Enthusiast | IIT Roorkee</h3>
 
 ---
