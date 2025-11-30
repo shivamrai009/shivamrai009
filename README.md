@@ -1,11 +1,11 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Shivam Rai tie bnna aata hai humko</h1>
+<h1 align="center">Hi 👋, I'm Shivam Rai</h1>
 <h3 align="center">AI/ML Developer | Data Science | Full Stack Enthusiast | IIT Roorkee</h3>
 
 ---
 
 ### 🚀 About Me
-🎓 **Electrical Engineering** student at **IIT Roorkee** passionate about applying **AI and machine learning** to solve real-world problems.  
+🎓 **CGPA - 5.4 Electrical Engineering** student at **IIT Roorkee** passionate about applying **AI and machine learning** to solve real-world problems.  
 💡 I love building intelligent systems — from **AI-powered automation** to **deep learning models** and **data-driven applications**.  
 🌱 Currently exploring **multimodal AI**, **agentic systems**, and **AI for productivity & mental wellness**.  
 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, or **Generative AI**.  
