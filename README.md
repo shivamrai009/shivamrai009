@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-🎓 **CGPA - 5.4 Electrical Engineering** student at **IIT Roorkee** passionate about applying **AI and machine learning** to solve real-world problems.  
+🎓 **Final year Electrical Engineering** student at **IIT Roorkee** passionate about applying **AI and machine learning** to solve real-world problems.  
 💡 I love building intelligent systems — from **AI-powered automation** to **deep learning models** and **data-driven applications**.  
 🌱 Currently exploring **multimodal AI**, **agentic systems**, and **AI for productivity & mental wellness**.  
 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, or **Generative AI**.  
