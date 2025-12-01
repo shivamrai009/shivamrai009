@@ -10,7 +10,7 @@
 🌱 Currently exploring **multimodal AI**, **agentic systems**, and **AI for productivity & mental wellness**.  
 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, or **Generative AI**.  
 📫 Reach me at **shivamrai009@gmail.com**  
-🌐 Portfolio: *Coming soon*
+
 
 ---
 
