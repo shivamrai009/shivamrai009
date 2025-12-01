@@ -9,7 +9,7 @@
 💡 I love building intelligent systems — from **AI-powered automation** to **deep learning models** and **data-driven applications**.  
 🌱 Currently exploring **multimodal AI**, **agentic systems**, and **AI for productivity & mental wellness**.  
 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, or **Generative AI**.  
-📫 Reach me at **shivamrai009@gmail.com**  
+📫 Reach me at **shivamrai047@gmail.com**  
 
 
 ---
