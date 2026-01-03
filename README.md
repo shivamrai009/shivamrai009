@@ -1,37 +1,79 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is shivam rai
-===================================================================================================================================
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Rai.;Architecting+Intelligent+AI+Systems.;Building+Scalable+MLOps+Pipelines.;Optimizing+Neural+Architectures." alt="Typing SVG" />
 
-AI/ML Developer | Data Science |
---------------------------------
+  <h3 align="center">
+    MLOps Engineer • AI Architect • Python Specialist
+  </h3>
+  
+  <p align="center">
+     I bridge the gap between complex machine learning models and production software.<br>
+     Specializing in <b>Graph Neural Networks</b>, <b>RAG Pipelines</b>, and <b>High-Performance Inference</b>.
+  </p>
 
-Final year Electrical Engineering student at IIT Roorkee passionate about applying AI and machine learning to solve real-world problems.
+  <br>
 
-💡 I love building intelligent systems — from AI-powered automation to deep learning models and data-driven applications.
+  <a href="https://my-portfolio1-pz7s2wsjd-shivam-rais-projects-f55cbdf2.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_View_Interactive_Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white&labelColor=22d3ee&color=020617" height="45" />
+  </a>
 
-🌱 Currently exploring multimodal AI, agentic systems, and AI for productivity & mental wellness.
+  <br><br>
 
-💬 Ask me about Python, Machine Learning, Deep Learning, Computer Vision, NLP, or Generative AI.
+</div>
 
-* 🌍  I'm based in roorkee
-* ✉️  You can contact me at [shivamrai047@gmail.com](mailto:shivamrai047@gmail.com)
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+### 🧠 Intelligence Stack
 
-### Socials
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<p align="left"> <a href="https://www.github.com/shivamrai009" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/shivamrai009"><img src="https://github-readme-stats.vercel.app/api?username=shivamrai009&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shivamrai009's GitHub stats" /></a>
+### ⚡ Featured Projects
 
-<a href="http://www.github.com/shivamrai009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrai009&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Finance Graph RAG](https://github.com/shivamrai009/finance-graph-rag)** | Uncovering market relationships by fusing Graph Neural Networks with Retrieval Augmented Generation. | `GNN` `Python` `Neo4j` |
+| **[RAG Pipeline Optimizer](https://github.com/shivamrai009/RAG-Pipeline-Optimizer)** | Automated framework to experiment and find the perfect chunk size and embedding model for enterprise data. | `MLOps` `Docker` `VectorDB` |
+| **[Smart Model Router](https://github.com/shivamrai009/smart-model-router)** | Intelligent AI gateway that routes prompts to cheap (Llama 3) or expensive (GPT-4) models based on complexity. | `FastAPI` `Groq` `Llama 3` |
+| **[CV Experience Parser](https://github.com/shivamrai009/CV-Experience-Parser)** | Fine-tuned LLM using LoRA to extract structured JSON job data from unstructured resume text. | `LLM` `LoRA` `Fine-tuning` |
 
-<a href="https://github.com/shivamrai009" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrai009&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 📊 System Metrics
 
-<div width="100%" align="center"><a href="https://github.com/shivamrai009/finance-graph-rag" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamrai009&repo=finance-graph-rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamrai009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrai009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/shivam-rai-761a37271/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
