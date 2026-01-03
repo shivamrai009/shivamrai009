@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Rai.;Architecting+Intelligent+AI+Systems.;Building+Scalable+MLOps+Pipelines.;Optimizing+Neural+Architectures." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Rai.;Architecting+AI+Systems.;Building+MLOps+Pipelines.;Optimizing+Neural+Architectures." alt="Typing SVG" />
 
   <h3 align="center">
-    MLOps Engineer • AI Architect • Python Specialist
+    MLOps  • AI Architect • Python Specialist
   </h3>
   
   <p align="center">
